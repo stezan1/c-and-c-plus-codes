@@ -1,0 +1,3 @@
+Name = ram
+post = er
+Salary =   80000.00
